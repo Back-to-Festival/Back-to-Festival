@@ -1,0 +1,10 @@
+#Pfeillinks {
+    float: left;
+    margin-top: 300px;
+}
+
+#Pfeilrechts {
+    float: right;
+    margin-top: 300px;
+    margin-right: 0%;
+}

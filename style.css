@@ -1,0 +1,17 @@
+#top {
+    text-align: center;
+}
+
+#top-image img {
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+
+#main {
+    margin: center;
+    width: 800px;
+}
+
+#main {
+    padding-left: 25px;
+}

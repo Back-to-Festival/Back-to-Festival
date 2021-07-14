@@ -1,0 +1,35 @@
+#SponsorLaura {
+    text-align: center;
+}
+#SponsorSabba {
+    text-align: center;
+}
+
+.SponsorLaura {
+    font-weight: bold;
+    font-size: 155%;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    margin-left: 28.1%;
+    letter-spacing: 37px;
+}
+.SponsorSabba {
+    font-weight: bold;
+    font-size: 155%;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    margin-left: 28.1%;
+    letter-spacing: 35px;
+}
+
+.links {
+    float: left;
+    margin-left: 28.2%;
+}
+
+p {
+    text-align: left;
+    font-size: 120%;
+    padding-left: 43%;
+    letter-spacing: 1px;
+}
